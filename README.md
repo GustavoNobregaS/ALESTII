@@ -2,4 +2,4 @@
 
 ## Conteúdo inicial
 
-[Heap binário](src/main/README.md)
+[Heap binário](src/main/heap/README.md)
