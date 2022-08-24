@@ -75,14 +75,14 @@ Resultado
 ![img_3.png](img_3.png)
 
 
-
-
-
-
-
 ## Remoção
-
 ...
+
+
+### Implementação
+
+Veja os exemplos em  [código-fonte](ExemploMaxHeap.java).
+
 
 #### Links adicionais
 
