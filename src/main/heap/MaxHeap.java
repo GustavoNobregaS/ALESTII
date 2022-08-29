@@ -114,6 +114,7 @@ public class MaxHeap {
             v[n] = v[1];
             v[1] = tmp;
             n--;
+            this.printArray();
             sink(1, n);
         }
 
