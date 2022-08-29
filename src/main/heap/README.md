@@ -89,7 +89,5 @@ Veja os exemplos em  [código-fonte](ExemploMaxHeap.java).
 - Ferramenta para visualizar os heaps: http://btv.melezinek.cz/binary-heap.html.
 - https://www.ime.usp.br/~pf/algoritmos/aulas/hpsrt.html
 - https://joaoarthurbm.github.io/eda/posts/heap/
-- 
-
-
+- https://www.geeksforgeeks.org/heap-sort/
 
